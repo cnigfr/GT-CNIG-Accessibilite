@@ -1,1 +1,1 @@
-Projet de standard CNIG Accessibilité
+Standard CNIG Accessibilité
