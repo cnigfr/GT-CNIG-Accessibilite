@@ -7,7 +7,7 @@
 
 Consulter le dossier [Standard](https://github.com/GT-CNIG-Accessibilite-TEAM/GT-CNIG-Accessibilite/tree/main/Standard)
 
-Les contributions, demnandes de corrections et d'évolutions sont répertoriées dans les [issues](https://github.com/GT-CNIG-Accessibilite-TEAM/GT-CNIG-Accessibilite/issues).
+Les contributions, demandes de corrections et d'évolutions du standard sont répertoriées dans les [issues](https://github.com/GT-CNIG-Accessibilite-TEAM/GT-CNIG-Accessibilite/issues).
 
 ## Gitbook du GT CNIG Accessibilité
 
