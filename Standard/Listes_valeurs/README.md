@@ -1,5 +1,5 @@
 
 
-# Liste de valeurs des attributs du modèle de données
+# Liste de valeurs d'attributs
 
 
