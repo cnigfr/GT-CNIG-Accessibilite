@@ -1,6 +1,6 @@
 # GT CNIG Accessibilite
 
-- [GT CNIG Accessibilité](http://cnig.gouv.fr/gt-accessibilite-a18058.html)
+- [GT CNIG Accessibilité](http://cnig.gouv.fr/gt-accessibilite-a18058.html) : [Mandat](http://cnig.gouv.fr/IMG/pdf/2018-09-mandat-netex-inspire-v5.pdf) et [compte-rendus de réunion](http://cnig.gouv.fr/gt-accessibilite-a18058.html)
 - [Ressources associées](http://cnig.gouv.fr/ressources-accessibilite-a25335.html)
 
 ## Standard CNIG Accessibilité
